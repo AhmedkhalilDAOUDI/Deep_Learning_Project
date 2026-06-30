@@ -1,0 +1,22 @@
+{
+  "model1_cnn": {
+    "val_accuracy": 0.7200811505317688,
+    "val_loss": 0.5338642597198486,
+    "epochs": 17
+  },
+  "model2_aug": {
+    "val_accuracy": 0.7454361319541931,
+    "val_loss": 0.5168461203575134,
+    "epochs": 22
+  },
+  "model3_tl": {
+    "val_accuracy": 0.9685598611831665,
+    "val_loss": 0.08506149798631668,
+    "epochs": 15
+  },
+  "best_model": "TransferLearning",
+  "best_accuracy": 0.9685598611831665,
+  "params_m1": 13202881,
+  "params_m2": 13500609,
+  "params_m3": 2422081
+}
