@@ -6,4 +6,3 @@ pandas
 matplotlib
 seaborn
 scikit-learn
-python-3.11
