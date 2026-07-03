@@ -29,7 +29,7 @@ Thumbs.db
 *.log
 *.tmp
 
-# Large data / cache (optional)
-# data_cats_and_dogs/train/
-# data_cats_and_dogs/validation/
-# data_cats_and_dogs/train_augmented/
+# Large data / cache
+data_cats_and_dogs/train/
+data_cats_and_dogs/validation/
+data_cats_and_dogs/train_augmented/
